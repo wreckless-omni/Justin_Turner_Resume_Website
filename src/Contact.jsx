@@ -11,13 +11,22 @@ return(
     <div className="Contact">
     <header className="Contact-header">
     <NavBar/>
-    -Contact- <br/>
+    
    
-      <p>
+      
+
+    </header>
+
+   
+    <body>
+    <h1>-Contact- <br/></h1>
+    <p class = "paragragh">
         -Justin Turner-<br/>
         (818) 649-0278<br/>
-        Justin.turner83@gmail.com<br/>
-      </p>
+        Justin.turner83@gmail.com<br/><br/>
+      
+
+      
       <a
         className="Contact-link"
         href="https://github.com/wreckless-omni"
@@ -45,11 +54,11 @@ return(
       >
       <img src={"./bluelinkedin.png" } alt=""/>
       </a>
+      </p>
 
 
 
-
-    </header>
+    </body>
   </div>
 
 

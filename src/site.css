@@ -3,14 +3,25 @@
 text-align: center;
 }
 
+header.h2{
+
+  font-size: large;
+  position: center;
+}
+
+p.paragragh{
+  text-align: center;
+}
+
 *{
 box-sizing: border-box;
 }
-.Contact {
 
+.Contact {
   justify-content: right;
   margin-right: 300;
 }
+
 
 .site-title {
   font-size: 4rem;
@@ -26,6 +37,8 @@ box-sizing: border-box;
   width: 1050px;
   gap: 2rem;
   padding: 0 1rem;
+  top: 0;
+  left: 0;
   
 }
 
@@ -38,6 +51,7 @@ display: flex;
 gap: 1rem;
 }
 
+
 .nav ul :hover {
 color: white;
 }
@@ -46,17 +60,20 @@ color: white;
   color: black;
 }
 .nav :active {
-
   -webkit-box-shadow:0px 0px 105px 45px red;
 -moz-box-shadow: 0px 0px 105px 45px red;
 box-shadow: 0px 0px 105px 45px red;
 }
 
+html {
+  overflow-y: scroll;
+}
 
 body{
+ 
   word-wrap: break-word;
 background-color:black;
-color: aqua;
+color:aqua;
 text-justify: center;
 align-items: center;
 display: flex;
@@ -64,7 +81,7 @@ display: flex;
   align-items: top;
   justify-content: center;
   font-size: calc(10px + 2vmin);
- 
+  overflow: 'hidden';
 }
 
 button{

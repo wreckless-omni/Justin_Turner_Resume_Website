@@ -10,9 +10,14 @@ return(
     <header className="Contact-header">
     <NavBar/>
    
-    -About Me- <br/>
+    
     </header>
-    <p>
+
+    <body>
+
+   <h1>-About Me- <br/></h1> 
+    <p class = "paragragh">
+
     I am a recent graduate with a B.A.S. in software development.<br/>
 I come from an audio background with a decade of experience <br/>
 in professional audio and recording.
@@ -27,6 +32,9 @@ I want to make it work.<br/>
 I want to help build the digital future.<br/>
         
       </p>
+
+    </body>
+    
   
   </div>
 
