@@ -39,6 +39,7 @@ box-sizing: border-box;
   padding: 0 1rem;
   top: 0;
   left: 0;
+  font-size: 40px;
   
 }
 
@@ -49,6 +50,7 @@ margin: 0;
 list-style: none;
 display: flex;
 gap: 1rem;
+
 }
 
 
