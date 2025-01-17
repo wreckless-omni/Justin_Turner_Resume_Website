@@ -19,7 +19,7 @@ export function Home(){
 </h1>
 
 
-<img src={"./JT Logo.png"} alt="" height={600}/>
+<img src={"./JT Logo.png"} alt="" height={500}/>
 <h3>
 -Software Developer-<br/><br/>
 </h3>
