@@ -38,7 +38,7 @@ return(
 
       <a
         className="Contact-link"
-        href="https://mega.nz/file/DTYyADyZ#hDIXQDh2n1oTwbLB24qHyDHy9fUMLeTqpHBesZdzYVw"
+        href="https://mega.nz/file/zPJW0AZR#CVjIEsxT-UZw8qDBVXeG9rUXF73IHveymwdB2f1juiA"
         target="_blank"
         rel="noopener noreferrer"
       >
