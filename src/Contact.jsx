@@ -22,7 +22,6 @@ return(
     <h1>-Contact- <br/></h1>
     <p class = "paragragh">
         -Justin Turner-<br/>
-        (818) 649-0278<br/>
         Justin.turner83@gmail.com<br/><br/>
       
 
